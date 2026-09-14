@@ -3,6 +3,9 @@
 ## Screenshot of the Dashboard
 ![Dashboard Screenshot](https://github.com/SruthiSivakumar/Visualizations/blob/main/Dashboard%20Screengrab.png))
 
+
+##  Data used:
+https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis 
 ---
 
 ## 🎯 Objective
