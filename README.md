@@ -1,7 +1,7 @@
 # 📊 Dashboard Design Rationale — Telecom Customer Churn Analysis
 
 ## Screenshot of the Dashboard
-![Dashboard Screenshot](path/to/your/screenshot.png)
+![Dashboard Screenshot](https://github.com/SruthiSivakumar/Visualizations/blob/main/Dashboard%20Screengrab.png))
 
 ---
 
